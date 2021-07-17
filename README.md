@@ -1,3 +1,9 @@
+# URL-Shortener
+
+Code from **How to create an URL-Shortener service with Next.js and Prisma**.
+
+You can read it and follow through on my **blog** 👉 [carlosazaustre.es/acortador-urls](https://carlosazaustre.es/acortador-urls)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

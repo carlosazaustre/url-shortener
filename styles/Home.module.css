@@ -87,7 +87,7 @@
   border: 1px solid #eaeaea;
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
-  width: 45%;
+  width: 100%;
 }
 
 .card:hover,
@@ -111,6 +111,17 @@
 .logo {
   height: 1em;
   margin-left: 0.5rem;
+}
+
+.input {
+  margin: 0.125rem;
+  font-size: 1.25rem;
+  padding: 1rem;
+}
+.button {
+  margin: 0.125rem;
+  font-size: 1.25rem;
+  padding: 1rem;
 }
 
 @media (max-width: 600px) {
